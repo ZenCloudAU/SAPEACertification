@@ -122,4 +122,4 @@ SAPEACertification/
 *Built alongside the SAP IEA10 course. Background: IT (non-SAP). Goal: Certification.*
 
 ---
-© 2026 ZenCloud Global Consultants. All rights reserved. Proprietary and confidential.
+© 2026 Zencloud Advisory. All rights reserved. Proprietary and confidential.
